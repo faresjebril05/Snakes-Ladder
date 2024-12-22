@@ -3,7 +3,7 @@
 ## Installation
 To run this game on your local machine, follow these steps:
 1. Clone this repository:
-  git clone https://github.com/yourusername/snakes-and-ladders.git
+  git clone https://github.com/faresjebril05/snakes-and-ladders.git
 2. Navigate into the project directory:
   cd snakes-and-ladders
 3. Compile the C++ code using your preferred compiler. For example, with g++:
